@@ -1,0 +1,2 @@
+PyTorch Transfer Learning Guide: https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+Transfer Learning Notes: https://cs231n.github.io/transfer-learning/
